@@ -9,4 +9,4 @@ Creates a set of arrays of all found media urls within the Board's threads:
 Simple to use & relatively quick:
     Less than 30sec for 150 Boards, 1200+ pics, 40+ gifs, 15+ webms.
 
-Browse the [Usage](./wiki/Usage#welcome-to-the-4chan-media-crawler-wiki) wiki page for information as to how to use!
+Browse the [Usage](https://github.com/Sir-Kam/4chan-media-crawler/wiki/Usage#welcome-to-the-4chan-media-crawler-wiki) wiki page for information as to how to use!
